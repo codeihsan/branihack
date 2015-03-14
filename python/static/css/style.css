@@ -1,0 +1,11 @@
+html,body {
+	font-family: Raleway, sans-serif;
+}
+
+#title {
+	text-align: center;
+}
+
+.hide {
+	display: none;
+}
